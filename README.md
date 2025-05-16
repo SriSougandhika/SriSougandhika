@@ -28,7 +28,7 @@
 
 ---
 
-### 💼 Projects
+### 💼 Project Collection
 
 #### 📊 Data Science
 - **Numpy-Pandas-Seaborn** - Beginner's Guide to Numpy, Pandas, and Seaborn
