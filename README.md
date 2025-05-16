@@ -86,4 +86,4 @@
 ---
 
 ### 😄 Pronouns: She/Her  
-### ⚡ Fun Fact: I like playing piano, adore anime, and dream of skydiving one day! 💫
+### ⚡ Fun Fact: I like playing piano, adore anime & comics a lot, and dream of skydiving one day! 💫
