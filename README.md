@@ -35,17 +35,25 @@
 - **Customer Churn Analysis** – Deep dive EDA and predictive modeling using Telco dataset  
 - **Movie Recommendation System** – Hybrid approach combining collaborative & content-based filtering
 - **Exploratory Data Analysis on Netflix Data** - In-depth analysis of TV Shows and Movies on Netflix, and finding trends and patterns
+- **Fake News Prediction** - Classifies news articles as Real or Fake using TF-IDF vectorization and Logistic Regression
+- **Data Mining Task** - A simple task to get hold of how analysis and mining work
 
 #### 🎮 Game Theory and Reinforcement Learning
 - **Flower Collection Game** - A simple flower collecting game built using the PyGame module
 - **Slay the Demons Game** - A simple demon-slaying game built using the PyGame module
 - **Reinforcement Learning** - Simple illustrative working of Q-Learning algorithm in RL
-
+- **Markov Chains** - Explored how simple probabilistic models work through 5 tasks
+  - Weather prediction
+  - Song lyrics generation
+  - Chatbot text generation
+  - News headline generation
+  - Stock movement prediction
 
 #### 🤖 Machine Learning
 - **Traffic Data Prediction** – SimpleRNN prediction of the traffic on unseen data, by training the model on the PeMS dataset
 - **Predictive Maintenance** - Predictive Maintenance Machine Learning API allowing users to predict machine failures using multiple machine learning models
 - **AI-Fix-It** - Recent advancements in AI and ML are used to enhance the effectiveness in the automobile industry
+- **Machine Learning 101** - Contains simple and beginner-friendly machine learning algorithm implementations 
 
 #### 🧠 Deep Learning
 - **Emotion Recognition** – Using CNN on a photo dataset, we will try to recognize various emotions  
