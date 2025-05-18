@@ -56,7 +56,8 @@
 - **Machine Learning 101** - Contains simple and beginner-friendly machine learning algorithm implementations 
 
 #### 🧠 Deep Learning
-- **Emotion Recognition** – Using CNN on a photo dataset, we will try to recognize various emotions  
+- **Emotion Recognition** – Using CNN on a photo dataset, we will try to recognize various emotions
+- **Deep Learning** - Contains mini tasks on multi-class classification
 
 #### 👁️ Computer Vision
 - **Mini Projects** – Multiple tasks covered:
