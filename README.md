@@ -49,12 +49,13 @@
   - News headline generation
   - Stock movement prediction
 
-#### 🤖 Machine Learning
+#### 🤖 Machine Learning & AI
 - **Traffic Data Prediction** – SimpleRNN prediction of the traffic on unseen data, by training the model on the PeMS dataset
 - **Predictive Maintenance** - Predictive Maintenance Machine Learning API allowing users to predict machine failures using multiple machine learning models
 - **AI-Fix-It** - Recent advancements in AI and ML are used to enhance the effectiveness in the automobile industry
 - **Machine Learning 101** - Contains simple and beginner-friendly machine learning algorithm implementations
 - **Credit Card Fraud Detection** - Detects fraudulent transactions using a random forest classifier and handles class imbalance through under-sampling
+- **Lung Cancer Detection** - Detected cancereous and benign with 96% accuracy and interpreted with Grad-CAM heatmap visualizations
 
 #### 🧠 Deep Learning
 - **Emotion Recognition** – Using CNN on a photo dataset, we will try to recognize various emotions
