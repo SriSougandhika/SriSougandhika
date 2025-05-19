@@ -61,6 +61,7 @@
 #### 🧠 Deep Learning
 - **Emotion Recognition** – Using CNN on a photo dataset, we will try to recognize various emotions
 - **Deep Learning** - Contains mini tasks on multi-class classification
+- **Anime Face Generation using GANs** - Used simple GANs to generate new anime faces with 30K+ training data images of anime faces
 
 #### 👁️ Computer Vision
 - **Mini Projects** – Multiple tasks covered:
