@@ -2,7 +2,8 @@
 
 🎓 I recently graduated with a B.Tech in Artificial Intelligence and Data Science from **IIITDM Kurnool**.  
 📊 I'm currently looking for exciting opportunities as a **Data Analyst** to contribute my data storytelling, analytics, and insights generation skills.
-💡 I'm also interested in roles such as Design Strategist, Product Analyst, or UI/UX Designer Trainee, to contribute my skills in Figma, Canva, Prototyping, Front-End, Design Thinking skills. 
+💡 I'm also interested in roles such as Design Strategist, Product Analyst, or UI/UX Designer Trainee, to contribute my skills in Figma, Canva, Prototyping, Front-End, and Design Thinking skills. 
+
 ---
 
 ### 👀 Interests
@@ -23,7 +24,6 @@
 - Data Engineering Concepts
 - Storytelling with Power BI and Tableau
 - Git & GitHub Version Control Practices
-- Advanced MSExcel Techniques
 - Efficient and Effective Dashboarding
 
 ---
@@ -37,6 +37,9 @@
 - **Exploratory Data Analysis on Netflix Data** - In-depth analysis of TV Shows and Movies on Netflix, and finding trends and patterns
 - **Fake News Prediction** - Classifies news articles as Real or Fake using TF-IDF vectorization and Logistic Regression
 - **Data Mining Task** - A simple task to get hold of how analysis and mining work
+
+#### 💡 UI/UX Designing and Product Analysis
+- **Figma Projects** - Consists of two mini projects showcasing prototyping and wireframing skills in Figma
 
 #### 🎮 Game Theory and Reinforcement Learning
 - **Flower Collection Game** - A simple flower collecting game built using the PyGame module
