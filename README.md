@@ -30,7 +30,7 @@
 
 ### 💼 Project Collection
 
-#### 📊 Data Science
+#### 📊 Data Science and Analytics
 - **Numpy-Pandas-Seaborn** - Beginner's Guide to Numpy, Pandas, and Seaborn
 - **Customer Churn Analysis** – Deep dive EDA and predictive modeling using Telco dataset  
 - **Movie Recommendation System** – Hybrid approach combining collaborative & content-based filtering
@@ -38,8 +38,9 @@
 - **Fake News Prediction** - Classifies news articles as Real or Fake using TF-IDF vectorization and Logistic Regression
 - **Data Mining Task** - A simple task to get hold of how analysis and mining work
 
-#### 💡 UI/UX Designing and Product Analysis
+#### 💡 UI/UX Designing and Animations
 - **Figma Projects** - Consists of two mini projects showcasing prototyping and wireframing skills in Figma
+- **Animations** - Consists of self-made short 2D animation videos (like flipbooks)
 
 #### 🎮 Game Theory and Reinforcement Learning
 - **Flower Collection Game** - A simple flower collecting game built using the PyGame module
