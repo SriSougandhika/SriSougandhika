@@ -37,6 +37,7 @@
 - **Exploratory Data Analysis on Netflix Data** - In-depth analysis of TV Shows and Movies on Netflix, and finding trends and patterns
 - **Fake News Prediction** - Classifies news articles as Real or Fake using TF-IDF vectorization and Logistic Regression
 - **Data Mining Task** - A simple task to get hold of how analysis and mining work
+- **Advanced MS Excel** - Excel Functions, Analytics, Dashboarding, Macros, and more!
 
 #### 💡 UI/UX Designing and Animations
 - **Figma Projects** - Consists of two mini projects showcasing prototyping and wireframing skills in Figma
