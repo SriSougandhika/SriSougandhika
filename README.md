@@ -1,7 +1,7 @@
 ## 👋 Hello everyone, I’m Gumma Sri Sougandhika!
 
-👩🏻‍💻 Working as a **Product Analyst** at AbleSpace!
-🎓 Graduated with a B.Tech in Artificial Intelligence and Data Science from **IIITDM Kurnool**.
+👩🏻‍💻 Working as a **Product Analyst** at AbleSpace!  
+🎓 Graduated with a B.Tech in Artificial Intelligence and Data Science from **IIITDM Kurnool**.  
 📊 Looking forward to exciting opportunities to contribute my data storytelling, analytics, and insights generation skills.  
 💡 I'm also interested in contributing my skills in Figma, Canva, Prototyping, Front-End, and Design Thinking skills. 
 
