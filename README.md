@@ -1,8 +1,9 @@
 ## 👋 Hello everyone, I’m Gumma Sri Sougandhika!
 
-🎓 I recently graduated with a B.Tech in Artificial Intelligence and Data Science from **IIITDM Kurnool**.  
-📊 I'm currently looking for exciting opportunities as a **Data Analyst** or **Product Analyst** to contribute my data storytelling, analytics, and insights generation skills.  
-💡 I'm also interested in roles such as **Design Strategist**, or **UI/UX Designer Trainee**, to contribute my skills in Figma, Canva, Prototyping, Front-End, and Design Thinking skills. 
+👩🏻‍💻 Working as a **Product Analyst** at AbleSpace!
+🎓 Graduated with a B.Tech in Artificial Intelligence and Data Science from **IIITDM Kurnool**.
+📊 Looking forward to exciting opportunities to contribute my data storytelling, analytics, and insights generation skills.  
+💡 I'm also interested in contributing my skills in Figma, Canva, Prototyping, Front-End, and Design Thinking skills. 
 
 ---
 
